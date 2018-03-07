@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(rgb(116, 0, 29),rgb(158, 21, 55),rgb(158, 21, 55),rgb(116, 0, 29));
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    font-family: cambria;
+}
+button {
+    margin: 10px;
+}
+form {
+    margin: 10px;
+}
